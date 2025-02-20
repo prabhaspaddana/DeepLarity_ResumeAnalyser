@@ -1,3 +1,31 @@
+#Project Structure 
+/SampleProjectResumeFrontend
+├── frontend/
+│   ├── public/
+│   │   ├── index.html
+│   │   ├── favicon.ico
+│   │   ├── manifest.json
+│   │   └── robots.txt
+│   │
+│   ├── src/
+│   │   ├── assets/
+│   │   │   ├── icons/
+│   │   │   │   ├── skills.png
+│   │   │   │   ├── keywords.png
+│   │   │   │   ├── formatting.png
+│   │   │   │   └── ats.png
+│   │   │   └── images/
+│   │   │       └── logo.png
+│   │   │
+│   │   ├── components/
+│   │   │   ├── TabPanel.js
+│   │   │   ├── ResumeList.js
+│   │   │   └── AnalysisResult.js
+│   │   │
+│   │   ├── styles/
+│   │   │   ├── App.css
+│   │   │
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
